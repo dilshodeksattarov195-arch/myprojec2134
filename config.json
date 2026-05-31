@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdender",
+        "uuid": 12750650,
+        "checksum": "ternws"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
